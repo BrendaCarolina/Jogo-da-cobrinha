@@ -1,0 +1,9 @@
+body{/*colocando o box no meio da página */ 
+    height: 95vh;
+    width: 95;
+    display: flex;      
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkblue;
+}
